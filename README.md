@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+📚 I'm currently studying in master degree (<a href='https://uf-mi.u-bordeaux.fr/sites/cmi-isi/'>CMI ISI</a>) at University of Bordeaux.
