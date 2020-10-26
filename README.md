@@ -22,5 +22,8 @@ Currently improving my machine learning skills,
 
 </br>
 
-👉 Very enthusiastic and motivated about the idea of working in business, I'm looking for an end-of-studies internship.
+👊 Very enthusiastic and motivated about the idea of working in business, I'm looking for an end-of-studies internship on data science.
 
+</br>
+
+🤝 Let's get in touch 👉 <a href='https://www.linkedin.com/in/dorianherve'>in LinkedIn</a>
