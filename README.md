@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Currently improving my machine learning skills, 
 -->
 
+</br>
 
 📚 I'm currently studying in master degree (<a href='https://uf-mi.u-bordeaux.fr/sites/cmi-isi/'>CMI ISI</a>) at University of Bordeaux.
+
+</br>
+
+👉 Very enthusiastic and motivated about the idea of working in business, I'm looking for an end-of-studies internship.
+
