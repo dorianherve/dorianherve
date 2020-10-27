@@ -18,11 +18,11 @@ Currently improving my machine learning skills,
 
 </br>
 
-📚 I'm currently studying in master degree (<a href='https://uf-mi.u-bordeaux.fr/sites/cmi-isi/'>CMI ISI</a>) at University of Bordeaux.
+📚 I'm currently studying Data Science and about to get my Sc. Master's degree (<a href='https://uf-mi.u-bordeaux.fr/sites/cmi-isi/'>CMI ISI</a>) at the University of Bordeaux.
 
 </br>
 
-👊 Very enthusiastic and motivated about the idea of working in business, I'm looking for an end-of-studies internship on data science.
+👊 I'm very enthusiastic and motivated about the idea of working in business, and I'm looking for an end-of-studies internship revolving multiple aspects of Data Science : deep learning, NLP...
 
 </br>
 
